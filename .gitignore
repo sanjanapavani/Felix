@@ -16,3 +16,15 @@ env/
 
 # Secrets
 .env
+
+# local env
+.env
+.env.*
+
+# python venv
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+*.pyc
